@@ -11,11 +11,11 @@
 ![C#](https://img.shields.io/badge/.NET-C%23-239120?style=for-the-badge&logo=C%20Sharp&logoColor=white)
 ![Google Cloud Platform](https://img.shields.io/badge/Cloud-GCP-4285F4?style=for-the-badge&logo=Google&logoColor=white)
 
-## Learnings
+### In learnings
 
 ![Express](https://img.shields.io/badge/Backend-Express-000000?style=for-the-badge&logo=Express&logoColor=white)
 
-## Interests
+### Interests
 
 ![GraphQL](https://img.shields.io/badge/API-GraphQL-E10098?style=for-the-badge&logo=GraphQL&logoColor=white)
 ![Docker](https://img.shields.io/badge/Container-Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white)
