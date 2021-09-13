@@ -1,8 +1,14 @@
 # Chanhyuk, Byeon
 
-![기술](https://img.shields.io/badge/분류-기술-색상?style=for-the-badge&logo=로고&logoColor=white)
+> Full-stack web developer, interested in Game dev.
 
 ## Skills
+
+<!--
+![기술](https://img.shields.io/badge/분류-기술-색상?style=for-the-badge&logo=로고&logoColor=white)
+
+LOGO: https://simpleicons.org/?q=google
+-->
 
 ![Laravel](https://img.shields.io/badge/Backend-Laravel-FF2D20?style=for-the-badge&logo=Laravel&logoColor=white)
 ![Nuxt](https://img.shields.io/badge/Frontend-Nuxt-00C58E?style=for-the-badge&logo=Nuxt.js&logoColor=white)
