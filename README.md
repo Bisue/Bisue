@@ -2,8 +2,6 @@
 
 > Full-stack web developer, interested in Game dev.
 
----
-
 ## Skills
 
 <!--
@@ -30,8 +28,6 @@ LOGO: https://simpleicons.org/?q=google
 ![Docker](https://img.shields.io/badge/Container-Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Container-Kubernetes-326CE5?style=for-the-badge&logo=Kubernetes&logoColor=white)
 ![Unity](https://img.shields.io/badge/Game%20Dev-Unity-000000?style=for-the-badge&logo=Unity&logoColor=white)
-
----
 
 ## Projects
 
