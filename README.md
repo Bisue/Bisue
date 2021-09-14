@@ -32,7 +32,8 @@ LOGO: https://simpleicons.org/?q=google
 ## Projects
 
 ### 1. [Enpyeong Alimi](https://www.epalimi.com/)
-> [WEB] Local information sharing platform
+> [WEB] Local information sharing platform   
+> 2020.01~
 
 #### Repository
 - PRIVATE
