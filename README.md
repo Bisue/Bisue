@@ -2,6 +2,8 @@
 
 > Full-stack web developer, interested in Game dev.
 
+---
+
 ## Skills
 
 <!--
@@ -33,5 +35,5 @@ LOGO: https://simpleicons.org/?q=google
 
 ## Projects
 
-1. [은평알리미](https://www.epalimi.com/)
-![Epalimi]()
+### EP Alimi [LINK](https://www.epalimi.com/)
+- Repository: PRIVATE
