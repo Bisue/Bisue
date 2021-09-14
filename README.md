@@ -31,5 +31,5 @@ LOGO: https://simpleicons.org/?q=google
 
 ## Projects
 
-### EP Alimi [LINK](https://www.epalimi.com/)
+### [EP Alimi](https://www.epalimi.com/)
 - Repository: PRIVATE
