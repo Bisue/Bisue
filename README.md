@@ -18,6 +18,7 @@ LOGO: https://simpleicons.org/?q=google
 ![Nuxt](https://img.shields.io/badge/Frontend-Nuxt-00C58E?style=for-the-badge&logo=Nuxt.js&logoColor=white)
 ![Vue](https://img.shields.io/badge/Frontend-Vue-4FC08D?style=for-the-badge&logo=Vue.js&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Frontend-Tailwind%20CSS-38B2AC?style=for-the-badge&logo=Tailwind%20CSS&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Frontend-Bootstrap-7952B3?style=for-the-badge&logo=Bootstrap&logoColor=white)
 ![C#](https://img.shields.io/badge/.NET-C%23-239120?style=for-the-badge&logo=C%20Sharp&logoColor=white)
 ![Google Cloud Platform](https://img.shields.io/badge/Cloud-GCP-4285F4?style=for-the-badge&logo=Google&logoColor=white)
 
