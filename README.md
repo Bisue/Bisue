@@ -18,19 +18,20 @@ LOGO: https://simpleicons.org/?q=google
 ![Nuxt](https://img.shields.io/badge/Frontend-Nuxt-00C58E?style=for-the-badge&logo=Nuxt.js&logoColor=white)
 ![Vue](https://img.shields.io/badge/Frontend-Vue-4FC08D?style=for-the-badge&logo=Vue.js&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Frontend-Tailwind%20CSS-38B2AC?style=for-the-badge&logo=Tailwind%20CSS&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Frontend-Bootstrap-7952B3?style=for-the-badge&logo=Bootstrap&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Frontend-Bootstrap-7952B3?style=for-the-badge&logo=Bootstrap&logoColor=white)
 ![C#](https://img.shields.io/badge/.NET-C%23-239120?style=for-the-badge&logo=C%20Sharp&logoColor=white)
 ![Google Cloud Platform](https://img.shields.io/badge/Cloud-GCP-4285F4?style=for-the-badge&logo=Google&logoColor=white)
 
 ### In learnings
 
+![NestJS](https://img.shields.io/badge/Backend-NestJS-E0234E?style=for-the-badge&logo=NestJS&logoColor=white)
+![Docker](https://img.shields.io/badge/Container-Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white)
 ![Express](https://img.shields.io/badge/Backend-Express-000000?style=for-the-badge&logo=Express&logoColor=white)
 
 ### Interests
 
 ![Koa.js](https://img.shields.io/badge/Backend-Koa.js-339933?style=for-the-badge&logo=Node.js&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/API-GraphQL-E10098?style=for-the-badge&logo=GraphQL&logoColor=white)
-![Docker](https://img.shields.io/badge/Container-Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Container-Kubernetes-326CE5?style=for-the-badge&logo=Kubernetes&logoColor=white)
 ![Unity](https://img.shields.io/badge/Game%20Dev-Unity-000000?style=for-the-badge&logo=Unity&logoColor=white)
 
