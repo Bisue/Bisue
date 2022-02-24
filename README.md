@@ -50,7 +50,7 @@ LOGO: https://simpleicons.org/?q=google
 ![Google Cloud Platform](https://img.shields.io/badge/Cloud-GCP-4285F4?style=for-the-badge&logo=Google&logoColor=white)
 
 #### 1-i. Enpyeong Alimi - Ad
-> [ADMINSTRATION/API] Non-profit reward based advertisement system
+> [ADMINSTRATION/API] Non-profit reward based advertisement system  
 > 2022.02~
 
 ##### Repository
