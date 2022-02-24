@@ -48,3 +48,15 @@ LOGO: https://simpleicons.org/?q=google
 ![Laravel](https://img.shields.io/badge/Backend-Laravel-FF2D20?style=for-the-badge&logo=Laravel&logoColor=white)
 ![Vue](https://img.shields.io/badge/Frontend-Vue(Partial)-4FC08D?style=for-the-badge&logo=Vue.js&logoColor=white)
 ![Google Cloud Platform](https://img.shields.io/badge/Cloud-GCP-4285F4?style=for-the-badge&logo=Google&logoColor=white)
+
+## 1-i. Enpyeong Alimi - Ad
+> [ADMINSTRATION + API] Non-profit reward based advertisement system
+> 2022.02~
+
+##### Repository
+- PRIVATE
+
+##### Used stack
+![Laravel](https://img.shields.io/badge/Backend-Laravel-FF2D20?style=for-the-badge&logo=Laravel&logoColor=white)
+![Vue](https://img.shields.io/badge/Frontend-Vue(Partial)-4FC08D?style=for-the-badge&logo=Vue.js&logoColor=white)
+![Google Cloud Platform](https://img.shields.io/badge/Cloud-GCP-4285F4?style=for-the-badge&logo=Google&logoColor=white)
