@@ -35,6 +35,12 @@ LOGO: https://simpleicons.org/?q=google
 ![Kubernetes](https://img.shields.io/badge/Container-Kubernetes-326CE5?style=for-the-badge&logo=Kubernetes&logoColor=white)
 ![Unity](https://img.shields.io/badge/Game%20Dev-Unity-000000?style=for-the-badge&logo=Unity&logoColor=white)
 
+## Orgnaization
+
+- ### [EP Alimi(epalimi)](https://github.com/epalimi)
+
+- ### [OKKorea21(okkorea21)](https://github.com/okkorea21)
+
 ## Projects
 
 ### 1. [Enpyeong Alimi](https://www.epalimi.com/)
