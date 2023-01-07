@@ -2,6 +2,8 @@
 
 > Full-stack web developer, also interested in Game dev.
 
+ </br>
+
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=Bisue&show_icons=true&theme=github_dark )
 
 ## Skills
