@@ -4,7 +4,7 @@
 
  </br>
 
-![Github Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Bisue&show_icons=true&theme=github_dark&count_private=true)
+![Github Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Bisue&show_icons=true&theme=dark&count_private=true)
 
 ## Skills
 
