@@ -47,6 +47,10 @@ LOGO: https://simpleicons.org/?q=google
 > [WEB] Local information sharing platform   
 > 2019.11~
 
+#### Screenshot
+
+![Epalimi](images/epalimi.png)
+
 #### Repository
 - PRIVATE
 
