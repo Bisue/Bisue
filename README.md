@@ -1,6 +1,6 @@
 # Chanhyuk, Byeon
 
-> Full-stack web developer, also interested in Game dev.
+> Full-stack web developer, interested in Game dev.
 
  </br>
 
