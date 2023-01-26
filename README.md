@@ -43,7 +43,7 @@ LOGO: https://simpleicons.org/?q=google
 
 ## Projects
 
-### 1. [Enpyeong Alimi](https://www.epalimi.com/)
+### 1. [은평알리미](https://www.epalimi.com/)
 > [WEB] Local information sharing platform   
 > 2019.11~
 
@@ -59,7 +59,7 @@ LOGO: https://simpleicons.org/?q=google
 ![Vue](https://img.shields.io/badge/Frontend-Vue(Partial)-4FC08D?style=for-the-badge&logo=Vue.js&logoColor=white)
 ![Google Cloud Platform](https://img.shields.io/badge/Cloud-GCP-4285F4?style=for-the-badge&logo=Google&logoColor=white)
 
-#### 1-i. Enpyeong Alimi - Ad
+#### 1-i. 은평알리미 - AD
 > [ADMINSTRATION/API] Non-profit reward based advertisement system  
 > 2022.02~
 
