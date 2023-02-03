@@ -81,3 +81,6 @@ LOGO: https://simpleicons.org/?q=google
 #### Used stack
 ![Laravel](https://img.shields.io/badge/Backend-Laravel-FF2D20?style=for-the-badge&logo=Laravel&logoColor=white)
 
+## Blog
+
+[bisue.shop](https://bisue.shop) (in development)
