@@ -43,7 +43,7 @@ LOGO: https://simpleicons.org/?q=google
 ## Projects
 
 ### 1. [은평알리미](https://www.epalimi.com/)
-> [WEB] Local information sharing platform   
+> [WEB] 지역 소식 공유 플랫폼  
 > 2019.11~2022-02-28  
 > [README.md](./projects/epalimi.md)
 
