@@ -44,7 +44,7 @@ LOGO: https://simpleicons.org/?q=google
 
 ### 1. [은평알리미](https://www.epalimi.com/)
 > [WEB] 지역 소식 공유 플랫폼  
-> 2019.11~2020-04 (maintenence~)  
+> 2019.11~2020.04 (maintenence~)  
 > [README.md](./projects/epalimi.md)
 
 #### Screenshot
@@ -61,7 +61,7 @@ LOGO: https://simpleicons.org/?q=google
 
 #### 1-1. 은평알리미 - AD
 > [ADMINSTRATION/API] Non-profit reward based advertisement system  
-> 2022.02~2022-02
+> 2022.02~2022.02
 
 ##### Repository
 - PRIVATE
@@ -74,7 +74,7 @@ LOGO: https://simpleicons.org/?q=google
 
 ### 2. LaravelWrapper
 > [WEB] Simple adminstration system for Building-sales websites.   
-> 2020.01~2020-04 (maintenance~)
+> 2020.01~2020.04 (maintenance~)
 
 #### Repository
 - PRIVATE
