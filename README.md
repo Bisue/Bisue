@@ -102,3 +102,8 @@ LOGO: https://simpleicons.org/?q=google
 
 ~[bisue.shop](https://bisue.shop) (in development)~  
 (domain expired)
+
+
+## Contacts
+
+- bdu00chch@gmail.com
