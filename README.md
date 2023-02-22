@@ -89,7 +89,7 @@ LOGO: https://simpleicons.org/?q=google
 ---
 
 ### 3. DGU API
-> [API] 동국대학교 3rd-party 비공식 API
+> [API] 동국대학교 3rd-party 비공식 API  
 > 2023.01~ (in development)
 
 #### Repository
