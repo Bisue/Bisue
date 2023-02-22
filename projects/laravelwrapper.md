@@ -4,4 +4,8 @@
 
 ### Screenshot
 
-![Epalimi](/images/laravelwrapper.png)
+![Epalimi](/images/laravelwrapper1.png)
+*[관심고객등록 관리]*
+
+![Epalimi](/images/laravelwrapper2.png)
+*[당첨자조회 관리]*
