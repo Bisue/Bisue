@@ -6,8 +6,6 @@
 
 ![Github Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Bisue&show_icons=true&theme=dark&count_private=true)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Bisue&theme=dark&locale=ko&date_format=%5BY.%5Dn.j)](https://git.io/streak-stats)
-
 ## Skills
 
 <!--
