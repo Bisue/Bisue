@@ -73,7 +73,7 @@ LOGO: https://simpleicons.org/?q=google
 
 
 ### 2. LaravelWrapper
-> [WEB] Simple adminstration system for Building-sales websites.   
+> [WEB] 분양 사이트를 위한 관심고객등록, 당첨자조회 등 관리자 콘솔 시스템   
 > 2020.01~2020.04 (maintenance)
 
 #### Repository
