@@ -60,8 +60,8 @@ LOGO: https://simpleicons.org/?q=google
 ![Google Cloud Platform](https://img.shields.io/badge/Cloud-GCP-4285F4?style=for-the-badge&logo=Google&logoColor=white)
 
 #### 1-1. 은평알리미 - AD
-> [ADMINSTRATION/API] Non-profit reward based advertisement system  
-> 2022.02~2022.02
+> [ADMINSTRATION/API] 비영리 리워드 기반 참여형 광고 등록 시스템  
+> 2022.02~2022.02 (deprecated)
 
 ##### Repository
 - PRIVATE
