@@ -77,7 +77,8 @@ LOGO: https://simpleicons.org/?q=google
 
 ### 2. LaravelWrapper
 > [WEB] 분양 사이트를 위한 관심고객등록, 당첨자조회 등 관리자 콘솔 시스템   
-> 2020.01~2020.04 (maintenance)
+> 2020.01~2020.04 (maintenance)  
+> [README.md](./projects/laravelwrapper.md)
 
 #### Repository
 - PRIVATE
