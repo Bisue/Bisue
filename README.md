@@ -101,8 +101,8 @@ LOGO: https://simpleicons.org/?q=google
 
 ## Blog
 
-~[bisue.shop](https://bisue.shop) (in development)~  
-(domain expired)
+[bisue.github.io](https://bisue.github.io)  
+(in development)
 
 
 ## Contacts
