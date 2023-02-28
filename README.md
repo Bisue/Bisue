@@ -6,6 +6,10 @@
 
 ![Github Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Bisue&show_icons=true&theme=dark&count_private=true)
 
+## Blog
+
+### [bisue.github.io](https://bisue.github.io)  
+
 ## Skills
 
 <!--
@@ -98,12 +102,6 @@ LOGO: https://simpleicons.org/?q=google
 #### Used stack
 ![NestJS](https://img.shields.io/badge/Backend-NestJS-E0234E?style=for-the-badge&logo=NestJS&logoColor=white)
 ![Nuxt](https://img.shields.io/badge/Frontend-Nuxt-00C58E?style=for-the-badge&logo=Nuxt.js&logoColor=white)
-
-## Blog
-
-[bisue.github.io](https://bisue.github.io)  
-(in development)
-
 
 ## Contacts
 
