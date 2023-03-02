@@ -44,12 +44,12 @@ LOGO: https://simpleicons.org/?q=google
 
 - ### [OKKorea21(okkorea21)](https://github.com/okkorea21)
 
-## Projects
+## Projects Overview
 
 ### 1. [은평알리미](https://www.epalimi.com/)
 > [WEB] 지역 소식 공유 플랫폼  
 > 2019.11~2020.04 (maintenence)  
-> [README.md](./projects/epalimi.md)
+> [[INFO]](https://bisue.github.io/projects/epalimi)
 
 #### Screenshot
 
@@ -82,7 +82,7 @@ LOGO: https://simpleicons.org/?q=google
 ### 2. LaravelWrapper
 > [WEB] 분양 사이트를 위한 관심고객등록, 당첨자조회 등 관리자 콘솔 시스템   
 > 2020.01~2020.04 (maintenance)  
-> [README.md](./projects/laravelwrapper.md)
+> [[INFO]](https://bisue.github.io/projects/laravel-wrapper)
 
 #### Repository
 - PRIVATE
