@@ -48,10 +48,12 @@ LOGO: https://simpleicons.org/?q=google
 
 ### [Projects](https://bisue.github.io/projects)
 
-- #### [은평알리미](https://bisue.github.io/projects/epalimi)
+- [은평알리미](https://bisue.github.io/projects/epalimi)  
+
 ![은평알리미](./images/epalimi.png)
 
-- #### [Laravel Wrapper](https://bisue.github.io/projects/laravel-wrapper)
+- [Laravel Wrapper](https://bisue.github.io/projects/laravel-wrapper)
+
 ![Laravel Wrapper](./images/laravelwrapper1.png)
 
 ## Contacts
