@@ -4,7 +4,9 @@
 
  </br>
 
-![Github Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Bisue&show_icons=true&theme=dark&count_private=true)
+![Github Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Bisue&show_icons=true&theme=dark&count_private=true&locale=kr)
+
+![Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bisue&hide=C%2B%2B,C&langs_count=5&layout=compact&theme=dark&locale=kr)
 
 ## Blog
 
