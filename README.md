@@ -42,13 +42,13 @@ LOGO: https://simpleicons.org/?q=google
 
 ## Orgnaization
 
-- ### [EP Alimi(epalimi)](https://github.com/epalimi)
+- ### [은평알리미(epalimi)](https://github.com/epalimi)
 
-- ### [OKKorea21(okkorea21)](https://github.com/okkorea21)
+- ### [(주)오케이코리아이십일(okkorea21)](https://github.com/okkorea21)
 
 ## Projects Overview
 
-### [Projects](https://bisue.github.io/projects)
+### [목록 보기](https://bisue.github.io/projects)
 
 - [은평알리미](https://bisue.github.io/projects/epalimi)  
 
