@@ -20,6 +20,8 @@
 LOGO: https://simpleicons.org/?q=google
 -->
 
+### Likes
+
 ![Laravel](https://img.shields.io/badge/Backend-Laravel-FF2D20?style=for-the-badge&logo=Laravel&logoColor=white)
 ![Nuxt](https://img.shields.io/badge/Frontend-Nuxt-00C58E?style=for-the-badge&logo=Nuxt.js&logoColor=white)
 ![Vue](https://img.shields.io/badge/Frontend-Vue-4FC08D?style=for-the-badge&logo=Vue.js&logoColor=white)
