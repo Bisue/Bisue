@@ -56,7 +56,7 @@ LOGO: https://simpleicons.org/?q=google
 
 - [Laravel Wrapper](https://bisue.github.io/projects/laravel-wrapper)
 
-![Laravel Wrapper](./images/laravelwrapper1.png)
+![Laravel Wrapper](./images/laravelwrapper.png)
 
 ## Contacts
 
