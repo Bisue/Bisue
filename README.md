@@ -4,9 +4,13 @@
 
  </br>
 
+<div align="center">
+
 ![Github Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Bisue&show_icons=true&theme=dark&count_private=true&locale=kr)
 
 ![Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bisue&hide=C%2B%2B,C&langs_count=5&layout=compact&theme=dark&locale=kr)
+
+</div>
 
 ## Blog
 
@@ -19,6 +23,8 @@
 
 LOGO: https://simpleicons.org/?q=google
 -->
+
+<div align="center">
 
 ### Likes
 
@@ -41,6 +47,8 @@ LOGO: https://simpleicons.org/?q=google
 
 ![GraphQL](https://img.shields.io/badge/API-GraphQL-E10098?style=for-the-badge&logo=GraphQL&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Container-Kubernetes-326CE5?style=for-the-badge&logo=Kubernetes&logoColor=white)
+
+</div>
 
 ## Orgnaization
 
