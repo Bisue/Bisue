@@ -12,9 +12,11 @@
 
 </div>
 
-## Blog
+## Links
 
-### [bisue.github.io](https://bisue.github.io)  
+### Blog
+
+- ### [bisue.github.io](https://bisue.github.io)  
 
 ## Skills
 
