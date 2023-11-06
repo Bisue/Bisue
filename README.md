@@ -41,6 +41,7 @@ LOGO: https://simpleicons.org/?q=google
 
 ### In learnings
 
+![Spring](https://img.shields.io/badge/Backend-Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white)
 ![NestJS](https://img.shields.io/badge/Backend-NestJS-E0234E?style=for-the-badge&logo=NestJS&logoColor=white)
 ![Docker](https://img.shields.io/badge/Container-Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white)
 ![Unity](https://img.shields.io/badge/Game%20Dev-Unity-000000?style=for-the-badge&logo=Unity&logoColor=white)
