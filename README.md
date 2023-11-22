@@ -8,10 +8,10 @@
 
 <a href="https://github.com/Bisue">
   <!-- <img height=200 align="center" src="https://github-readme-stats-selfhosted.vercel.app/api/?username=bisue&locale=kr&theme=dark&show_icons=true&count_private=true&rank_icon=github&include_all_commits=true&custom_title=변찬혁(Chanhyuk Byeon)의 깃허브 통계&bg_color=60,8b5cf6,7768f9,6372fa,4f7bf9,3b82f6&title_color=fff&text_color=fff" /> -->
-  <img height=200 align="center" src="https://github-readme-stats-selfhosted.vercel.app/api/?username=bisue&locale=kr&theme=dark&show_icons=true&count_private=true&rank_icon=github&include_all_commits=true&custom_title=변찬혁(Chanhyuk+Byeon)의+깃허브+통계&bg_color=60,065f46,00666b,00699f,0065cd,1d4ed8&title_color=fff&text_color=fff" />
+  <img height=200 align="center" src="https://github-readme-stats-selfhosted.vercel.app/api/?username=bisue&locale=kr&theme=dark&show_icons=true&count_private=true&rank_icon=github&include_all_commits=true&card_width=440&custom_title=변찬혁(Chanhyuk+Byeon)의+깃허브+통계&bg_color=60,065f46,00666b,00699f,0065cd,1d4ed8&title_color=fff&text_color=fff" />
 </a>
 <a href="https://github.com/Bisue">
-  <img height=200 align="center" src="https://github-readme-stats-selfhosted.vercel.app/api/top-langs/?username=bisue&hide=C%2B%2B,C,PHP,JavaScript,SCSS&langs_count=5&layout=compact&theme=dark&locale=kr&card_width=320&custom_title=가장+많이+사용한+언어&bg_color=60,1d4ed8,0065cd,00699f,00666b,065f46&title_color=fff&text_color=fff" />
+  <img height=200 align="center" src="https://github-readme-stats-selfhosted.vercel.app/api/top-langs/?username=bisue&hide=C%2B%2B,C,PHP,JavaScript,SCSS&langs_count=5&layout=compact&theme=dark&locale=kr&card_width=280&custom_title=가장+많이+사용한+언어&bg_color=60,1d4ed8,0065cd,00699f,00666b,065f46&title_color=fff&text_color=fff" />
 </a>
 
 <!-- ![Github Stats](https://github-readme-stats.vercel.app/api/?username=bisue&locale=kr&theme=dark&show_icons=true&count_private=true) -->
