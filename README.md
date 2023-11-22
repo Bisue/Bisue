@@ -85,6 +85,8 @@ LOGO: https://simpleicons.org/?q=google
 
 #### [> :globe_with_meridians: 블로그에서 보기](https://bisue.github.io/projects)
 
+<br/>
+
 ### [지역 소식 공유 플랫폼, 은평알리미](https://bisue.github.io/projects/epalimi)  
 
 #### 스크린샷
@@ -92,6 +94,10 @@ LOGO: https://simpleicons.org/?q=google
 <div align="center">
     <img alt="은평알리미" src="./images/epalimi.png"/>
 </div>
+
+<br/>
+
+---
 
 ### [건설업체 대상 분양사이트 솔루션](https://bisue.github.io/projects/laravel-wrapper)
 
