@@ -71,7 +71,7 @@ LOGO: https://simpleicons.org/?q=google
 
 <br/>
 
-## 	:department_store: Orgnaization
+## :department_store: Orgnaizations
 
 - #### [(주)오케이코리아이십일](https://github.com/okkorea21) (외주)
   - 2020.03 ~ : 건설업체 대상 분양사이트 제작 솔루션 개발 및 운영
@@ -80,6 +80,18 @@ LOGO: https://simpleicons.org/?q=google
   - 2020.01 ~ : 지역 소식 공유 플랫폼 "은평알리미" 개발 및 운영
 
 <br/>
+
+## :mortar_board: Educations
+
+- **2018.03 ~ 2024.02 :** 동국대학교 컴퓨터공학전공
+<!-- - **2024.01 ~ 2024.02 :** 삼성전자 DX부문 동계 대학생 S/W 알고리즘 역량 강화 특강 -->
+
+## :eyeglasses: Experiences
+
+- **2020.01 ~ :** 지역 소식 공유 플랫폼 "은평알리미" <span style="color: #14b8a6">**외주 개발 및 유지보수**</span>
+- **2020.03 ~ :** 건설업체 대상 분양사이트 제작 솔루션 <span style="color: #14b8a6">**외주 개발 및 유지보수**</span>
+- **2023.04 ~ 2023.11 :** 2023년 한이음 ICT멘토링 / 공모전 <span style="color: #14b8a6">**입선**</span>
+- **2023.03 ~ 2023.12 :** 2023년 겨울 ICIP&캡스톤디자인 결과발표회 <span style="color: #14b8a6">**우수상**</span>
 
 ## :video_game: Projects Overview
 
@@ -105,6 +117,19 @@ LOGO: https://simpleicons.org/?q=google
 
 <div align="center">
     <img alt="건설업체 대상 분양사이트 솔루션" src="./images/laravelwrapper.png"/>
+</div>
+
+<br/>
+
+---
+
+### [동국대학교 학사 공지 알리미 "데일리동국"](https://bisue.github.io/projects/outsourcing/laravel-wrapper)
+
+#### 스크린샷
+
+<div style="text-align: center;">
+    <img style="width: 33%; vertical-align: top;" alt="동국대학교 학사 공지 알리미 데일리동국" src="./images/dailydongguk.png"/>
+    <img style="width: 66%; vertical-align: top;" alt="동국대학교 학사 공지 알리미 데일리동국(메일)" src="./images/dailydongguk-mail.png"/>
 </div>
 
 <br/>
