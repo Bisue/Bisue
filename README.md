@@ -129,9 +129,9 @@ LOGO: https://simpleicons.org/?q=google
 
 #### 스크린샷
 
-<div style="text-align: center;">
-    <img style="width: 33%; vertical-align: top;" alt="동국대학교 학사 공지 알리미 데일리동국" src="./images/dailydongguk.png"/>
-    <img style="width: 66%; vertical-align: top;" alt="동국대학교 학사 공지 알리미 데일리동국(메일)" src="./images/dailydongguk-mail.png"/>
+<div align="center">
+    <img align="top" style="width: 33%" alt="동국대학교 학사 공지 알리미 데일리동국" src="./images/dailydongguk.png"/>
+    <img align="top" style="width: 66%" alt="동국대학교 학사 공지 알리미 데일리동국(메일)" src="./images/dailydongguk-mail.png"/>
 </div>
 
 <br/>
