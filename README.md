@@ -84,6 +84,8 @@ LOGO: https://simpleicons.org/?q=google
 ## :mortar_board: Educations
 
 - **2018.03 ~ 2024.02 :** 동국대학교 컴퓨터공학전공
+  - 전체 4.07/4.5
+  - 전공 4.34/4.5
 <!-- - **2024.01 ~ 2024.02 :** 삼성전자 DX부문 동계 대학생 S/W 알고리즘 역량 강화 특강 -->
 
 ## :eyeglasses: Experiences
