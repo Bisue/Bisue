@@ -101,7 +101,7 @@ LOGO: https://simpleicons.org/?q=google
 
 <br/>
 
-### [지역 소식 공유 플랫폼, 은평알리미](https://bisue.github.io/projects/outsourcing/epalimi)  
+### [지역 소식 공유 플랫폼, 은평알리미](https://bisue.github.io/projects/outsourcing/2-epalimi)  
 
 #### 스크린샷
 
@@ -113,7 +113,7 @@ LOGO: https://simpleicons.org/?q=google
 
 ---
 
-### [건설업체 대상 분양사이트 솔루션](https://bisue.github.io/projects/outsourcing/laravel-wrapper)
+### [건설업체 대상 분양사이트 솔루션](https://bisue.github.io/projects/outsourcing/1-laravel-wrapper)
 
 #### 스크린샷
 
