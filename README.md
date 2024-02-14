@@ -125,7 +125,7 @@ LOGO: https://simpleicons.org/?q=google
 
 ---
 
-### [동국대학교 학사 공지 알리미 "데일리동국"](https://bisue.github.io/projects/personal/daily-dongguk.html)
+### [동국대학교 학사 공지 알리미 "데일리동국"](https://bisue.github.io/projects/personal/1-daily-dongguk.html)
 
 #### 스크린샷
 
