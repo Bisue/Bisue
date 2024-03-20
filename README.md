@@ -59,6 +59,7 @@ LOGO: https://simpleicons.org/?q=google
 ### :yum: LEARNINGS
 
 ![Spring](https://img.shields.io/badge/Backend-Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white)
+![ASP.NET Core](https://img.shields.io/badge/Backend-ASP.NET%20CORE-512bd4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Docker](https://img.shields.io/badge/Container-Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white)
 ![Unity](https://img.shields.io/badge/Game%20Dev-Unity-000000?style=for-the-badge&logo=Unity&logoColor=white)
 
