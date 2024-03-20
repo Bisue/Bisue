@@ -71,13 +71,13 @@ LOGO: https://simpleicons.org/?q=google
 
 <br/>
 
-## :department_store: Orgnaizations
+## :department_store: Career
 
 - #### [(주)오케이코리아이십일](https://github.com/okkorea21) (외주)
-  - 2020.03 ~ : 건설업체 대상 분양사이트 제작 솔루션 개발 및 운영
+  - 2020.03 ~ 2024.02 : 건설업체 대상 분양사이트 제작 솔루션 개발 및 운영
 
 - #### [은평공리사회적협동조합](https://github.com/epalimi) (외주)
-  - 2020.01 ~ : 지역 소식 공유 플랫폼 "은평알리미" 개발 및 운영
+  - 2020.01 ~ 2024.02 : 지역 소식 공유 플랫폼 "은평알리미" 개발 및 운영
 
 <br/>
 
