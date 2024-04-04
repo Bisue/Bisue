@@ -80,6 +80,9 @@ LOGO: https://simpleicons.org/?q=google
 - #### [은평공리사회적협동조합](https://github.com/epalimi) (외주)
   - 2020.01 ~ 2024.02 : 지역 소식 공유 플랫폼 "은평알리미" 개발 및 운영
 
+- #### [펄어비스](https://www.pearlabyss.com/ko-KR)
+  - 2024.03 ~ 2024.05 : 웹 개발(백엔드) 인턴
+
 <br/>
 
 ## :mortar_board: Educations
@@ -95,6 +98,7 @@ LOGO: https://simpleicons.org/?q=google
 - **2021.09 ~ 2021.10 :** 2021년 군 장병 공개SW 해커톤
 - **2023.04 ~ 2023.11 :** 2023년 한이음 ICT멘토링 / 공모전 [**입선**](/awards/2023-hanium.pdf)
 - **2023.03 ~ 2023.12 :** 2023년 겨울 ICIP&캡스톤디자인 결과발표회 [**우수상**](/awards/2023-icip.pdf)
+- **2024.03 ~ 2023.05 :** 2024 펄어비스 봄 테크 인턴십
 
 ## :video_game: Projects Overview
 
