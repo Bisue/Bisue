@@ -78,10 +78,10 @@ LOGO: https://simpleicons.org/?q=google
 ## :department_store: Career
 
 - #### [(주)오케이코리아이십일](https://github.com/okkorea21) (외주/프리랜서)
-  - 2020.03 ~ 2024.02 : 건설업체 대상 분양사이트 제작 솔루션 개발 및 운영
+  - 2020.03 ~ 2024.02 : 건설업체 대상 분양사이트 제작 솔루션 1인 개발 및 운영
 
 - #### [은평공리사회적협동조합](https://github.com/epalimi) (외주/프리랜서)
-  - 2020.01 ~ 2024.02 : 지역 소식 공유 플랫폼 "은평알리미" 개발 및 운영
+  - 2020.01 ~ 2024.02 : 지역 소식 공유 플랫폼 "은평알리미" 1인 개발 및 운영
 
 - #### [펄어비스](https://www.pearlabyss.com/ko-KR) (인턴)
   - 2024.03 ~ 2024.05 : 웹 개발(백엔드) 인턴
@@ -96,13 +96,15 @@ LOGO: https://simpleicons.org/?q=google
 
 ## :eyeglasses: Experiences
 
-- **2020.01 ~ :** 지역 소식 공유 플랫폼 "은평알리미" **외주 개발 및 유지보수**
-- **2020.03 ~ :** 건설업체 대상 분양사이트 제작 솔루션 **외주 개발 및 유지보수**
-- **2021.09 ~ 2021.10 :** 2021년 군 장병 공개SW 해커톤
-- **2023.04 ~ 2023.11 :** 2023년 한이음 ICT멘토링 / 공모전 [**입선**](/awards/2023-hanium.pdf)
-- **2023.03 ~ 2023.12 :** 2023년 겨울 ICIP&캡스톤디자인 결과발표회 [**우수상**](/awards/2023-icip.pdf)
-- **2024.03 ~ 2024.05 :** 2024 펄어비스 봄 테크 인턴십
-- **2024.04 ~ 2024.11 :** 소프트웨어 마에스트로 15기
+| 기간    | 내용    |
+| ------- | ------- |
+| **2020.01 ~ 2024.02** | 지역 소식 공유 플랫폼 "은평알리미" **외주 개발 및 유지보수** |
+| **2020.03 ~ 2024.02** | 건설업체 대상 분양사이트 제작 솔루션 **외주 개발 및 유지보수**
+| **2021.09 ~ 2021.10** | 2021년 군 장병 공개SW 해커톤
+| **2023.04 ~ 2023.11** | 2023년 한이음 ICT멘토링 / 공모전 [**입선**](/awards/2023-hanium.pdf)
+| **2023.03 ~ 2023.12** | 2023년 겨울 ICIP&캡스톤디자인 결과발표회 [**우수상**](/awards/2023-icip.pdf)
+| **2024.03 ~ 2024.05** | 2024 펄어비스 봄 테크 인턴십
+| **2024.04 ~ 2024.11** | 소프트웨어 마에스트로 15기
 
 ## :video_game: Projects Overview
 
@@ -114,8 +116,9 @@ LOGO: https://simpleicons.org/?q=google
 
 #### 스크린샷
 
-<div align="center">
-    <img alt="은평알리미" src="./images/epalimi.png"/>
+<div align="center" float="left">
+    <img align="top" width="53%" alt="은평알리미" src="./images/epalimi.png"/>
+    <img align="top" width="46%" alt="은평알리미" src="./images/epalimi-detail.png"/>
 </div>
 
 <br/>
@@ -127,7 +130,8 @@ LOGO: https://simpleicons.org/?q=google
 #### 스크린샷
 
 <div align="center">
-    <img alt="건설업체 대상 분양사이트 솔루션" src="./images/laravelwrapper.png"/>
+    <img align="top" width="40%" alt="건설업체 대상 분양사이트 솔루션" src="./images/laravelwrapper-na.png"/>
+    <img align="top" width="59%" alt="건설업체 대상 분양사이트 솔루션" src="./images/laravelwrapper.png"/>
 </div>
 
 <br/>
@@ -139,8 +143,8 @@ LOGO: https://simpleicons.org/?q=google
 #### 스크린샷
 
 <div align="center">
-    <img align="top" style="width: 33%" alt="동국대학교 학사 공지 알리미 데일리동국" src="./images/dailydongguk.png"/>
-    <img align="top" style="width: 66%" alt="동국대학교 학사 공지 알리미 데일리동국(메일)" src="./images/dailydongguk-mail.png"/>
+    <img align="top" width="33%" alt="동국대학교 학사 공지 알리미 데일리동국" src="./images/dailydongguk.png"/>
+    <img align="top" width="66%" alt="동국대학교 학사 공지 알리미 데일리동국(메일)" src="./images/dailydongguk-mail.png"/>
 </div>
 
 <br/>
