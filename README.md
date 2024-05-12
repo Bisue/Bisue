@@ -43,8 +43,8 @@ LOGO: https://simpleicons.org/?q=google
 ### :sunglasses: LIKES
 
 ![TypeScript](https://img.shields.io/badge/Language-Typescript-3178C6?style=for-the-badge&logo=Typescript&logoColor=white)
-![NestJS](https://img.shields.io/badge/Backend-NestJS-E0234E?style=for-the-badge&logo=NestJS&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Backend-Laravel-FF2D20?style=for-the-badge&logo=Laravel&logoColor=white)
+![NestJS](https://img.shields.io/badge/Backend-NestJS-E0234E?style=for-the-badge&logo=NestJS&logoColor=white)
 ![Vue](https://img.shields.io/badge/Frontend-Vue-4FC08D?style=for-the-badge&logo=Vue.js&logoColor=white)
 ![Nuxt](https://img.shields.io/badge/Frontend-Nuxt-00DC82?style=for-the-badge&logo=Nuxt.js&logoColor=white)
 ![React](https://img.shields.io/badge/Frontend-React-0088CC?style=for-the-badge&logo=React&logoColor=white)
@@ -52,14 +52,17 @@ LOGO: https://simpleicons.org/?q=google
 ![Electron](https://img.shields.io/badge/Desktop-Electron-47848F?style=for-the-badge&logo=Electron&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Frontend-Tailwind%20CSS-38B2AC?style=for-the-badge&logo=Tailwind%20CSS&logoColor=white)
 ![Google Cloud Platform](https://img.shields.io/badge/Cloud-GCP-4285F4?style=for-the-badge&logo=Google&logoColor=white)
-![C#](https://img.shields.io/badge/.NET-C%23-239120?style=for-the-badge&logo=C%20Sharp&logoColor=white)
+![C#](https://img.shields.io/badge/LANGUAGE-C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![ASP.NET MVC](https://img.shields.io/badge/Backend-ASP.NET%20MVC-512bd4?style=for-the-badge&logo=dotnet&logoColor=white)
+![ASP.NET Core](https://img.shields.io/badge/Backend-ASP.NET%20CORE-512bd4?style=for-the-badge&logo=dotnet&logoColor=white)
+![MySQL](https://img.shields.io/badge/Database-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MSSQL](https://img.shields.io/badge/Database-MSSQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 <!-- ![Bootstrap](https://img.shields.io/badge/Frontend-Bootstrap-7952B3?style=for-the-badge&logo=Bootstrap&logoColor=white) -->
 <!-- ![Express](https://img.shields.io/badge/Backend-Express-000000?style=for-the-badge&logo=Express&logoColor=white) -->
 
 ### :yum: LEARNINGS
 
 ![Spring](https://img.shields.io/badge/Backend-Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white)
-![ASP.NET Core](https://img.shields.io/badge/Backend-ASP.NET%20CORE-512bd4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Docker](https://img.shields.io/badge/Container-Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white)
 ![Unity](https://img.shields.io/badge/Game%20Dev-Unity-000000?style=for-the-badge&logo=Unity&logoColor=white)
 
@@ -74,13 +77,13 @@ LOGO: https://simpleicons.org/?q=google
 
 ## :department_store: Career
 
-- #### [(주)오케이코리아이십일](https://github.com/okkorea21) (외주)
+- #### [(주)오케이코리아이십일](https://github.com/okkorea21) (외주/프리랜서)
   - 2020.03 ~ 2024.02 : 건설업체 대상 분양사이트 제작 솔루션 개발 및 운영
 
-- #### [은평공리사회적협동조합](https://github.com/epalimi) (외주)
+- #### [은평공리사회적협동조합](https://github.com/epalimi) (외주/프리랜서)
   - 2020.01 ~ 2024.02 : 지역 소식 공유 플랫폼 "은평알리미" 개발 및 운영
 
-- #### [펄어비스](https://www.pearlabyss.com/ko-KR)
+- #### [펄어비스](https://www.pearlabyss.com/ko-KR) (인턴)
   - 2024.03 ~ 2024.05 : 웹 개발(백엔드) 인턴
 
 <br/>
@@ -88,8 +91,8 @@ LOGO: https://simpleicons.org/?q=google
 ## :mortar_board: Educations
 
 - **2018.03 ~ 2024.02 :** 동국대학교 컴퓨터공학전공
-  - 전체 4.07/4.5
-  - 전공 4.34/4.5
+  - **전체** 4.07/4.5
+  - **전공** 4.34/4.5
 
 ## :eyeglasses: Experiences
 
